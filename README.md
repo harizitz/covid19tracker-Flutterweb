@@ -1,6 +1,6 @@
 #  COVID-19 Live Statistics - WebApp
 
- **[🌐 Web Version ](https://covid19tcounts.vercel.app/#/ "VISIT WEBSITE 🌐")**
+ **[🌐 Web Version ](https://covid19counts.vercel.app/#/ "VISIT WEBSITE 🌐")**
 
 
  A simple flutter webapp (migration from app) to track COVID-19 cases in India.
