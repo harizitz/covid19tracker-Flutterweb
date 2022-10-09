@@ -1,8 +1,5 @@
 #  COVID-19 Live Statistics - WebApp
 
- **[🌐 Web Version ](https://covid19counts.vercel.app/#/ "VISIT WEBSITE 🌐")**
-
-
  A simple flutter webapp (migration from app) to track COVID-19 cases in India.
 We get data from [COVID-19_INDIA.ORG](https://api.covid19india.org "COVID-19 India.org")
 
@@ -14,10 +11,6 @@ We get data from [COVID-19_INDIA.ORG](https://api.covid19india.org "COVID-19 Ind
 -  Provides statistics of COVID-19 in each state along with its district in India.
 
 ------------
-
-##  SCREENSHOTS FROM MOBILE APP 📸
-<img src="https://covid19counts.now.sh/images/screenshot-1.png" width="250" style="border-radius: 15px">&nbsp;&nbsp;&nbsp; <img src="https://covid19counts.now.sh/images/screenshot-2.png" width="250" style="border-radius: 15px">&nbsp;&nbsp;&nbsp;<img src="https://covid19counts.now.sh/images/screenshot-3.png" width="250" style="border-radius: 15px">&nbsp;&nbsp;&nbsp;<img src="https://covid19counts.now.sh/images/screenshot-4.png" width="250" style="border-radius: 15px">&nbsp;&nbsp;&nbsp;<img src="https://covid19counts.now.sh/images/screenshot-5.png" width="250" style="border-radius: 15px">
-
 
 
 ##  Installation Steps 💻
